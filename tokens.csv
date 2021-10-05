@@ -1,0 +1,12 @@
+Token;Identificação;Tamanho;Posição
+while;Palavra;5;(0, 0)
+i;('Identificador', 0);1;(0, 6)
+<;Operador;1;(0, 8)
+100;('Constante', 1);3;(0, 10)
+do;Palavra;2;(0, 14)
+i;('Identificador', 0);1;(0, 17)
+=;Operador;1;(0, 19)
+i;('Identificador', 0);1;(0, 21)
++;Operador;1;(0, 23)
+j;('Identificador', 2);1;(0, 25)
+.;Terminador;1;(0, 26)
